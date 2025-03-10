@@ -9,9 +9,8 @@ My first piece of HTML5 code - Free code camp's Travel brochure
   <title>Travel Agency Page</title>
 </head>
 <body>
-  <title>Louis' Travel Agency</title>
   <h1>The Travel Destinations</h1>
-  <p>Hello, welcome to this travel leaflet.</p>
+  <p>Welcome to this new Travel Brochure - Offering Holiday Packages to beautiful stays.</p>
   <h2>Packages</h2>
   <p>We offer a range of different holiday packages all at a different range of prices. Hoping to cater to a plethora of different budgets and people.</p>
 
@@ -25,19 +24,19 @@ My first piece of HTML5 code - Free code camp's Travel brochure
 <figure>
   <a href='https://www.freecodecamp.org/learn'target='_blank'>
   <img src='https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg' alt='The First image of a holiday'</img></a>
-  <figcaption>The first image of a holiday</figcaption>
+  <figcaption>The Roman Colosseum</figcaption>
 </figure>
 
 <figure>
   <a href='https://www.freecodecamp.org/learn'target='_blank'>
   <img src='https://cdn.freecodecamp.org/curriculum/labs/alps.jpg' alt='The Second image of a holiday'</img></a>
-  <figcaption>The Second image of a holiday</figcaption>
+  <figcaption>Beautiful Mountain Range</figcaption>
 </figure>
 
 <figure>
   <a href='https://www.freecodecamp.org/learn'target='_blank'>
   <img src='https://cdn.freecodecamp.org/curriculum/labs/sea.jpg' alt='The Third image of a holiday'</img></a>
-  <figcaption>The Third image of a holiday</figcaption>
+  <figcaption>A beautiful boating trip</figcaption>
 </figure>
 
 </body>
